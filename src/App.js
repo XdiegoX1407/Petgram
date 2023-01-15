@@ -4,7 +4,6 @@ import { AppContext } from "./AppContext";
 import { Logo } from "./components/Logo";
 import { NavBar } from "./components/NavBar";
 import { Detail } from "./pages/Detail";
-/* import { Favs } from "./pages/Favs"; */
 import { Home } from "./pages/Home";
 import { NotFound } from "./pages/NotFound";
 import { NotRegisteredUser } from "./pages/NotRegisteredUser";
